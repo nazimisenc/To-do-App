@@ -1,0 +1,44 @@
+#header
+{
+    font-size: 25px;
+}
+
+a
+{
+    color: white;
+}
+
+body
+{
+    background-color: rgb(106, 105, 109);
+}
+
+.app-title
+{
+    display: inline-block;
+    color: rgb(177, 144, 35);
+    background-color: rgb(134, 0, 0);
+    border-radius: 25%;
+    padding: 10px;
+}
+
+#btnDeleteAll
+{
+    color: white;
+    border-color: rgb(209, 206, 44);
+}
+
+li:nth-child(even)
+{
+    background-color: rgb(231, 240, 237);
+}
+
+li:nth-child(odd)
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.btn-primary
+{
+    background-color: red;
+}
